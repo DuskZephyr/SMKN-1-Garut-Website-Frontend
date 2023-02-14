@@ -1,0 +1,43 @@
+
+/* untuk memberikan jarak antara Selamat Datang dan carousel */
+.carousel{
+    margin-bottom: 80px;
+}
+/* CSS Selamat Datang di SMK Negeri 1 Garut */
+h1{
+    text-align: center;
+    color: #002147;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/* CSS Guru Berkualitas dan 2 lainnya */
+.title{ 
+    text-align: center;
+    color:#002147;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+/* CSS deskripsi */
+.desc{
+    text-align: center;
+}
+/* CSS mengatur lebar dan sudut button */
+#button{
+    width: 175px;
+    border-radius: 1px;
+    background-color: #002147;
+    margin-bottom: 50px;
+}
+
+.news-title{
+    text-align: left;
+    color:#002147;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
